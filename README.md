@@ -1,5 +1,4 @@
 # weather-app
-# weather-app
 ## Live Link
 [https://eloraa.github.io/weather-app/](https://eloraa.github.io/weather-app/)
 ## Getting Started
