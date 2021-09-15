@@ -1,5 +1,6 @@
 # weather-app
-##Live Link
+## Live Link
+[](https://eloraa.github.io/weather-app/)
 ## Getting Started
 To get you started you can simply clone the repository:
 
